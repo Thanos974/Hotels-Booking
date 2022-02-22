@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # hotels booking
 
 Un nouveau projet flutter, qui permet de trouver des hôtels en europe et de faire des réservations.
+=======
+# hotel-booking
+
+Un projet de recherche et de réservation d'hôtels !
+>>>>>>> eae89d0564ce9197e5a9a360be731ea20a90fca2
 
 ## Getting Started
 
