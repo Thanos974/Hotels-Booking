@@ -1,6 +1,6 @@
-# hotel
+# hotels booking
 
-A new Flutter project.
+Un nouveau projet flutter, qui permet de trouver des hôtels en europe et de faire des réservations.
 
 ## Getting Started
 
