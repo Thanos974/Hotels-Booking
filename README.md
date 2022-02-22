@@ -1,6 +1,6 @@
-# hotel
+# hotel-booking
 
-A new Flutter project.
+Un projet de recherche et de réservation d'hôtels !
 
 ## Getting Started
 
