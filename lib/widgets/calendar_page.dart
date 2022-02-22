@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:hotel/widgets/calendar_range.dart';
 import 'package:hotel/widgets/period_section.dart';
-import 'package:hotel/widgets/vallidate_booking_sectoin.dart';
+import 'package:hotel/widgets/validate_booking_sectoin.dart';
 
 DateTime kNow = DateTime.now();
 DateTime kFirstDay = DateTime(kNow.year, kNow.month - 3, kNow.day);
