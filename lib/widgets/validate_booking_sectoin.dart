@@ -30,7 +30,7 @@ class ValidateBookingSection extends StatelessWidget {
               style: TextStyle(fontSize: 17),
             ),
             style: ElevatedButton.styleFrom(
-              primary: d_green,
+              backgroundColor: d_green,
               padding: EdgeInsets.all(15),
               shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(30.0),

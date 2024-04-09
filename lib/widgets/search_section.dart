@@ -70,9 +70,8 @@ class SearchSection extends StatelessWidget {
                     size: 26,
                   ),
                   style: ElevatedButton.styleFrom(
-                    shape: const CircleBorder(),
+                    shape: const CircleBorder(), backgroundColor: dgreen,
                     padding: const EdgeInsets.all(10),
-                    primary: dgreen,
                   ),
                 ),
               ),
